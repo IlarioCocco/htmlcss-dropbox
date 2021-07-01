@@ -26,8 +26,8 @@ header {
 
 
 .container {
-    margin-left: 0%;
-    margin-right: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 
@@ -45,6 +45,7 @@ header {
 .colDxheader {
     width: 50%;
     float: right;
+    text-align: right;
 }
 
 .menuSx
@@ -75,6 +76,10 @@ li {
     font-size: 70%;
 }
 
+
+.colSxheader div {
+    display: inline-block;
+}
 
 
 
