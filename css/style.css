@@ -44,5 +44,33 @@ header {
 
 .colDxheader{
     width: 50%;
-    float: right;
+    float: left;
+}
+
+.menuSx
+ul
+li {
+    text-align: left;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 85%;
+}
+
+.menuDx
+ul
+li {
+    text-align: right;
+    display: inline-block;
+    list-style-type: none;
+    font-size: 85%;
+}
+
+.inizia {
+    display: inline-block;
+    background-color: rgb(73, 90, 246);
+    color: white;
+    border: none;
+    padding: 10px;
+    height: 30px;
+    font-size: 70%;
 }
