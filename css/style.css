@@ -5,12 +5,44 @@
 }
 
 /* test */
+
 /* body {
     background-color: red
-} */
+} */ */
 
 .clearfix::after {
     content: "";
     display: table;
     clear: both;
+}
+
+
+/* -----header---- */
+header {
+    background-color: lightgray;
+    height: 100px;
+    color: rgb(0, 0, 0);
+}
+
+
+.container {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+
+.riga{
+    width: 100%;
+}
+
+
+.colSxheader {
+    width: 50%;
+    float: left;
+}
+
+
+.colDxheader{
+    width: 50%;
+    float: right;
 }
