@@ -104,7 +104,12 @@ z
     display: inline-block;
 }
 
-.container1 {
+
+
+
+
+
+.containerbkg {
     background-color: rgba(180,208,231,255);
     height: 700px;
 }
@@ -114,4 +119,33 @@ z
     font-size: 90px;
     padding-left: 210px;
     padding-top: 50px;
+}
+
+
+.container1 {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.colsx {
+    width: 50%;
+    float: left;
+}
+
+.coldx {
+    width: 50%;
+    float: left;
+}
+
+.imgprima {
+    height: 500px;
+    position: relative;
+    margin-top: 300px;
+    margin-left: 700px;
+}
+
+.finalmente {
+    margin-right: 70px;
+    top: 300px;
+    position: absolute;
 }
