@@ -29,14 +29,20 @@ header {
 }
 
 .container {
-    margin-left: 3%;
-    margin-right: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
 }
 
 
 .riga{
     width: 100%;
 }
+
+
+.logo-dropbox {
+    margin-top: 33px;
+}
+
 
 .colSxheader {
     width: 50%;
@@ -47,6 +53,7 @@ header {
     width: 50%;
     float: right;
     text-align: right;
+    
 }
 
 .menuSx
@@ -56,6 +63,12 @@ li {
     display: inline-block;
     list-style-type: none;
     font-size: 85%;
+    margin-left: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+    position: relative;
+    left: 140px;
+    bottom: 30px;
 }
 
 .menuDx
@@ -65,7 +78,15 @@ li {
     display: inline-block;
     list-style-type: none;
     font-size: 85%;
+    margin-left: 20px;
+    padding-left: 20px;
+    font-weight: bold;
+    margin-right: 30px;
+    position: relative;
+    right: 140px;
+    top: 30px;
 }
+    
 
 .inizia {
     display: inline-block;
@@ -74,7 +95,9 @@ li {
     border: none;
     padding: 10px;
     height: 30px;
+    width: 80px;
     font-size: 70%;
+    margin-top: 10px;
 }
 z
 .colSxheader div {
@@ -83,9 +106,12 @@ z
 
 .container1 {
     background-color: rgba(180,208,231,255);
-    height: 500px;
+    height: 700px;
 }
 
 .titoloPrincipale {
     text-align: left;
+    font-size: 90px;
+    padding-left: 210px;
+    padding-top: 50px;
 }
