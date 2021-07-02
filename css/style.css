@@ -103,15 +103,9 @@ li {
 
 
 /* -----------------------------sezione 1 */
-p {
-    padding-left: 0;
-}
-
-
-
 .containerbkg {
     background-color: rgba(180,208,231,255);
-    height: 700px;
+    height: 800px;
 }
 
 .box {
@@ -121,14 +115,21 @@ p {
 
 
 .leader-titolo {
-    padding-top: 70px;
+    padding-top: 30px;
 }
 
 .col50 {
     float: left;
-    width: 50%;
+    width: 20%;
     height: 50px;
     margin-top: 80px;
+}
+
+.col51 {
+    width: 65%;
+    position: relative;
+    left: 600px;
+    bottom: 100px;
 }
 
 
@@ -154,9 +155,7 @@ p {
 }
 
 .leader-titolo {
-    height: 160px;
-    text-align: left;
-    font-size: 35px;
+    font-size: 380%;
 }
 
 .colcenter {
@@ -177,7 +176,7 @@ p {
 p {
     display: inline-block;
     margin-top: 50px;
-    padding-left: 10px;
+    padding-left: 0px;
     font-size: 16px;
 }
 
