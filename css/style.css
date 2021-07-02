@@ -127,7 +127,7 @@ li {
     width: 65%;
     position: relative;
     left: 600px;
-    bottom: 190px;
+    bottom: 210px;
 }
 
 
@@ -138,8 +138,6 @@ li {
 .img100 {
     width: 100%;
 }
-
-
 
 
 /* -------------------------------sezione 2  */
@@ -154,18 +152,23 @@ li {
 }
 
 .colcenter {
-    margin-left: 3px;
-    margin-right: 3px;
+    margin-right: 40px;
 }
+
+
+.colleft {
+    margin-right: 40px;
+}
+
 
 .colleft, .colcenter, .colright  {
     float: left;
     height: 800px;
     margin-top: 20px;
     border: 1px solid lightgrey;
-    width: 20%;
+    width: 30%;
     padding: 30px 30px 30px 30px;
-    margin-left: 150px;
+    margin-left: 0px;
 }
 
 p {
