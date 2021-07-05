@@ -348,13 +348,15 @@ p {
 .Prodotti,
 .Azienda,
 .Supporto,
-.Community {
+.Community ul {
     float: left;
     width: calc(100% / 5);
 }
 
 
-
+ul {
+    list-style-type:none;
+}
 
 
 
