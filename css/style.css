@@ -88,7 +88,10 @@ li {
 }
     
 
-.inizia, .buttoninizia {
+.inizia,
+.buttoninizia,
+.contatta,
+.trovaunpartner {
     display: inline-block;
     background-color: rgb(0, 119, 255);
     color: white;
@@ -118,6 +121,11 @@ li {
     padding-top: 30px;
 }
 
+.tutto {
+   font-size: 600%;
+}
+
+
 .col50 {
     float: left;
     width: 20%;
@@ -130,8 +138,7 @@ li {
     bottom: 210px;
 }
 
-
-.buttoninizia {
+.buttoninizia, .contatta, .trovaunpartner {
      width: 200px;
 }
 
@@ -142,29 +149,44 @@ li {
 
 /* -------------------------------sezione 2  */
 .leader1 {
-    margin-top: 200px;
+    margin-top: 300px;
     margin-left: 15%;
     margin-right: 15%;
 }
 
-.leader-titolo {
-    font-size: 380%;
-}
+
 
 .colcenter {
-    margin-right: 40px;
+    margin-right: 73px;
 }
-
 
 .colleft {
-    margin-right: 40px;
+    margin-right: 73px;
 }
+
 
 
 .colleft, .colcenter, .colright  {
     float: left;
-    height: 800px;
     margin-top: 20px;
+    border: 1px solid lightgrey;
+    width: 30%;
+    padding: 30px 30px 30px 30px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.colcenter1 {
+    margin-right: 73px;
+}
+
+.colleft1 {
+    margin-right: 73px;
+}
+
+.colleft1, .colcenter1, .colright1  {
+    float: left;
+    height: 900px;
     border: 1px solid lightgrey;
     width: 30%;
     padding: 30px 30px 30px 30px;
@@ -179,14 +201,108 @@ p {
 }
 
 
-/* . {
-    width: calc(0% - 0px);
-} */
+.titolo2 {
+    float: left;
+    height: 50px;
+    margin-top: 40px;
+    border: 1px solid lightgrey;
+    width: 100%;
+    padding: 30px 30px 30px 30px;
+    margin-left: 0px;
+    text-align: center;
+}
+
+.colonnaOrizzontale {
+    float: left;
+    height: 240px;
+    border: 1px solid lightgrey;
+    width: 100%;
+    padding: 30px 30px 30px 30px;
+}
+
+
+/*------------------- sezione 3 */
+
+
+.leader2 {
+    margin-top: 200px;
+    margin-left: 15%;
+    margin-right: 15%;
+    position: relative;
+}
+
+
+.imgpartner {
+    float: left;
+    margin-top: 100px;
+    width: 20px;
+}
+
+.Entra {
+    float: left;
+    position: absolute;
+    left: 900px;
+    top: 1200px;
+    padding: 90px 90px 90px 90px;
+}
+
+.trovaunpartner {
+    background-color: white;
+    color: black;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+.imgPartner {
+    width: 900px;
+}
+
+.entrain {
+    font-size: 40px;
+}
+
+
+.Esegui {
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 150px;
+    margin-top: 2300px;
+}
+
+.trova, .esegui1 {
+    font-size: 380%;
+}
 
 
 
 
 
+
+
+
+
+.colleftimg {
+    float: left;
+    margin-top: 20px;
+    width: 600px;
+    padding-left: 0px;
+    margin-left: 0px;
+    position: relative;
+    margin-right: 0px;
+}
+
+
+.imgcartelle {
+    width: 60%;
+    position: absolute;
+    left: 0px;
+}
+
+
+.collefttesto {
+    float: left;
+    width: 100%;
+    margin-top: 295px;
+}
 
 
 
