@@ -264,8 +264,7 @@ p {
 
 
 
-
-
+/* -----------------sezione 4 */
 .Esegui {
     margin-left: 15%;
     margin-right: 15%;
@@ -322,7 +321,7 @@ p {
 }
 
 
-.passa1 {
+.passa1, .passa4 {
     width: 25%;
     position: absolute;
     top: 440px;
@@ -330,14 +329,14 @@ p {
     left: 500px;
 }
 
-.porta1 {
+.porta1, .passa4, .porta4 {
     width: 25%;
     position: absolute;
     top: 490px;
     left: 500px;
 }
 
-.passa2 {
+.passa2, .passa5 {
     width: 25%;
     position: absolute;
     top: 440px;
@@ -345,7 +344,7 @@ p {
     left: 1000px;
 }
 
-.porta2 {
+.porta2, .porta5 {
     width: 25%;
     position: absolute;
     top: 490px;
@@ -353,8 +352,57 @@ p {
 }
 
     
+.imgcartelle3 {
+    position: absolute;
+    width: 25%;
+    position: absolute;
+    left: 0px;
+    top: 800px;
+}
+
+.passa3, .passa4, .passa5 {
+    width: 25%;
+    position: absolute;
+    top: 1100px;
+    font-size: 200%;
+}
+
+.porta3, .porta4, .porta5 {
+    width: 25%;
+    position: absolute;
+    top: 1150px;
+}
+
+.imgcartelle4, .imgcartelle5 {
+    position: absolute;
+    width: 25%;
+    left: 500px;
+    top: 800px;
+}
 
 
+.imgcartelle5 {
+    left: 1000px;
+}
+
+
+
+/* -------------------------sezione 5 */
+.piu {
+    margin-left: 15%;
+    margin-right: 15%;
+    height: 150px;
+    margin-top: 1380px;
+}
+
+.piuuno {
+    font-size: 380%;
+}
+
+.link {
+    line-height: 100px;
+    font-size: 180%
+}
 
 
 
