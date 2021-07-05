@@ -321,6 +321,73 @@ p {
     background-color: lightgray;
 }
 
+/* .imgcubocx {
+    background-color: rgb(241, 12, 138);
+    float: left;
+    
+} */
+
+/* -------------------------cubo destra */
+.imgcubodx {
+    width: 550px;
+    height: 550px;
+    background-color: rgb(0, 0, 0);
+    float: right;
+    position: relative;
+}
+
+.cubowordBicy {
+    background-color: #ff1c1c;
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    left: 0px 0px;
+}
+
+.cuboHearst {
+    background-color: #b4d0e7;
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    right: 0px;
+}
+
+.cuboLonely {
+    background-color: #0d2481;
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.cuboClear {
+    background-color: #ffd830;
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    right: 0px;
+    bottom: 0px;
+}
+
+.imgDesignit,
+.imgAsu,
+.imgFlo,
+.imgTopps,
+.imgwordBicy,
+.imgLonely,
+.imgClear {
+    width: 80%;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.imgHearst {
+    width: 80%;
+    padding-top: 140px;
+    padding-left: 50px;
+}
+/* ---------------------cubo sinistra */
 .imgcubosx {
     width: 550px;
     height: 550px;
@@ -329,33 +396,12 @@ p {
     position: relative;
 }
 
-/* .imgcubocx {
-    background-color: rgb(241, 12, 138);
-    float: left;
-    
-} */
-
-
-.imgcubodx {
-    width: 550px;
-    height: 550px;
-    background-color: rgb(0, 0, 0);
-    float: right;
-}
-
-
 .cuboDesignit {
     background-color: rgb(167, 224, 167);
     position: absolute;
     width: 275px;
     height: 275px;
     left: 0px 0px;
-}
-
-.imgDesignit, .imgAsu, .imgFlo, .imgTopps {
-    width: 80%;
-    padding-top: 100px;
-    padding-left: 50px;
 }
 
 .cuboAsu {
