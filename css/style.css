@@ -261,11 +261,17 @@ p {
 }
 
 
+
+
+
+
+
 .Esegui {
     margin-left: 15%;
     margin-right: 15%;
     height: 150px;
     margin-top: 2300px;
+    position: relative;
 }
 
 .trova, .esegui1 {
@@ -274,35 +280,26 @@ p {
 
 
 
-
-
-
-
-
-
 .colleftimg {
     float: left;
-    margin-top: 20px;
-    width: 600px;
-    padding-left: 0px;
-    margin-left: 0px;
-    position: relative;
-    margin-right: 0px;
 }
 
 
 .imgcartelle {
-    width: 60%;
+    width: 25%;
     position: absolute;
     left: 0px;
+    top: 140px;
 }
 
 
 .collefttesto {
     float: left;
     width: 100%;
-    margin-top: 295px;
+    margin-top: 420px;
 }
+
+
 
 
 
