@@ -340,8 +340,18 @@ p {
     margin-right: 15%;
     height: 400px;
     background-color: rgb(66, 66, 66);
+    color: white;
 }
 
+
+.Dropfooter, 
+.Prodotti,
+.Azienda,
+.Supporto,
+.Community {
+    float: left;
+    width: calc(100% / 5);
+}
 
 
 
