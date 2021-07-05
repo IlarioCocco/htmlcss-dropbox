@@ -292,6 +292,21 @@ p {
     top: 140px;
 }
 
+.passa {
+    width: 25%;
+    position: absolute;
+    left: 0px;
+    top: 440px;
+    font-size: 200%;
+}
+
+.porta {
+    width: 25%;
+    position: absolute;
+    left: 0px;
+    top: 490px;
+}
+
 .imgcartelle1 {
     width: 25%;
     position: absolute;
@@ -307,11 +322,37 @@ p {
 }
 
 
-.collefttesto {
-    float: left;
-    width: 100%;
-    margin-top: 420px;
+.passa1 {
+    width: 25%;
+    position: absolute;
+    top: 440px;
+    font-size: 200%;
+    left: 500px;
 }
+
+.porta1 {
+    width: 25%;
+    position: absolute;
+    top: 490px;
+    left: 500px;
+}
+
+.passa2 {
+    width: 25%;
+    position: absolute;
+    top: 440px;
+    font-size: 200%;
+    left: 1000px;
+}
+
+.porta2 {
+    width: 25%;
+    position: absolute;
+    top: 490px;
+    left: 1000px;
+}
+
+    
 
 
 
