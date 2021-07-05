@@ -339,15 +339,14 @@ p {
 .footer{
     background-color: black;
     margin-top: 130px;
-    height: 400px;
 }
 
 .containerfooter {
     margin-left: 15%;
     margin-right: 15%;
-    height: 400px;
-    background-color: rgb(36, 35, 35);
+    background-color: rgb(58, 57, 57);
     color: white;
+    max-width: 100%;
 }
 
 .Dropfooter, 
@@ -360,12 +359,17 @@ p {
     margin-top: 30px;
     border: 1px solid rgb(255, 0, 0);
     margin: 5px;
-    /* width: ; */
+    /* padding-top: 10px; */
+    width: 19%;
 }
 
 ul {
     list-style-type:none;
 }
+/* 
+li {
+    line-height: 35px;
+} */
 
 
 
