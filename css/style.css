@@ -279,16 +279,30 @@ p {
 }
 
 
-
-.colleftimg {
+.colleftimg, .colleftimg1, .colleftimg2 {
     float: left;
 }
+
 
 
 .imgcartelle {
     width: 25%;
     position: absolute;
     left: 0px;
+    top: 140px;
+}
+
+.imgcartelle1 {
+    width: 25%;
+    position: absolute;
+    left: 500px;
+    top: 140px;
+}
+
+.imgcartelle2 {
+    width: 25%;
+    position: absolute;
+    left: 1000px;
     top: 140px;
 }
 
