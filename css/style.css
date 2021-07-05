@@ -287,6 +287,7 @@ p {
 .colleftimg1 {
     margin: 0 30px;
 }
+
 .imgcartelle {
     width: 100%;
 }
@@ -297,7 +298,6 @@ p {
 
 /* -------------------------sezione 5 */
 .piu {
-    margin-top: 130px;
     margin-left: 15%;
     margin-right: 15%;
 }
@@ -306,8 +306,11 @@ p {
     font-size: 340%;
 }
 
+.piuuno {
+    margin-top: 150px;
+}
+
 .link {
-    line-height: 100px;
     font-size: 180%
 }
 
@@ -315,18 +318,71 @@ p {
 
 
 .cubi {
-    height: 800px;
     background-color: lightgray;
-    margin-top: 200px;
 }
 
 .imgcubosx {
-    width: 400px;
-    height: 400px;
-    background-color: lightgreen;
+    width: 550px;
+    height: 550px;
+    background-color: rgb(0, 0, 0);
     float: left;
+    position: relative;
 }
 
+/* .imgcubocx {
+    background-color: rgb(241, 12, 138);
+    float: left;
+    
+} */
+
+
+.imgcubodx {
+    width: 550px;
+    height: 550px;
+    background-color: rgb(0, 0, 0);
+    float: right;
+}
+
+
+.cuboDesignit {
+    background-color: rgb(167, 224, 167);
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    left: 0px 0px;
+}
+
+.imgDesignit, .imgAsu, .imgFlo, .imgTopps {
+    width: 80%;
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+.cuboAsu {
+    background-color: rgb(114, 14, 61);
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    right: 0px;
+}
+
+.cuboFlo {
+    background-color: #0093ce;
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    left: 0px;
+    bottom: 0px;
+}
+
+.cuboTopps {
+    background-color: #ff1c1c;
+    position: absolute;
+    width: 275px;
+    height: 275px;
+    right: 0px;
+    bottom: 0px;
+}
 
 
 /* --------------------------sezione 7 */
@@ -369,6 +425,7 @@ p {
     color: #000000;
     padding-top: 90px;
     padding-bottom: 60px;
+    font-size: 240%;
 }
 
 .qual {
