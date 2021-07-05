@@ -328,7 +328,7 @@ p {
 
 
 
-
+/* test footer */
 .footer{
     background-color: black;
     margin-top: 130px;
@@ -338,6 +338,8 @@ p {
 .containerfooter {
     margin-left: 15%;
     margin-right: 15%;
+    height: 400px;
+    background-color: rgb(66, 66, 66);
 }
 
 
