@@ -154,11 +154,11 @@ li {
 
 
 .colcenter {
-    margin-right: 73px;
+    margin-right: 63px;
 }
 
 .colleft {
-    margin-right: 73px;
+    margin-right: 63px;
 }
 
 
@@ -173,11 +173,13 @@ li {
 .plan {
     border: 1px solid lightgrey;
 }
+
 .plan-top {
     border-bottom: 1px solid lightgrey;
     padding: 15px;
     text-align: center;
 }
+
 .plan-content {
     padding: 20px;
 }
@@ -277,6 +279,7 @@ p {
 
 .trova, .esegui1 {
     font-size: 380%;
+    padding-bottom: 50px;
 }
 
 
@@ -289,7 +292,7 @@ p {
 }
 
 .imgcartelle {
-    width: 100%;
+    width: 80%;
 }
 .passa {
     font-size: 200%;
@@ -449,15 +452,15 @@ p {
 
 .portaDrop {
     color: #61082b;
-    padding-top: 90px;
-    padding-bottom: 90px;
+    padding-top: 110px;
+    padding-bottom: 110px;
 }
 
 .inizia1 {
     border-color: white;
-    padding-left: 15px;
+    padding-bottom: 20px;
     position: absolute;
-    top: 100px;
+    top: 120px;
     right: 70px;
 }
 
