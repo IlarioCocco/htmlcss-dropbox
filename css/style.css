@@ -262,7 +262,16 @@ p {
 }
 
 .punti1 {
-    margin-bottom: 20px;
+    margin-bottom: 200px;
+    line-height: 60px;
+}
+
+.puntiprima{
+    margin-bottom: 260px;
+}
+
+.punti0{
+    line-height: 40px;
 }
 
 .mese {
