@@ -122,7 +122,7 @@ li {
 }
 
 .tutto {
-   font-size: 600%;
+   font-size: 500%;
 }
 
 
@@ -140,8 +140,13 @@ li {
      width: 200px;
 }
 
+.buttoninizia{
+    margin-top: 40px;
+}
+
 .img100 {
     width: 100%;
+    padding-top: 50px;
 }
 
 
@@ -230,8 +235,6 @@ p {
 
 
 /*------------------- sezione 3 */
-
-
 .leader2 {
     margin-top: 130px;
     margin-left: 15%;
@@ -255,6 +258,8 @@ p {
     background-color: white;
     color: black;
     border: 1px solid rgb(0, 0, 0);
+    font-weight: bold;
+    padding-bottom: 20px;
 }
 
 .imgPartner {
