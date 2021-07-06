@@ -481,39 +481,16 @@ p {
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+hr {
+   color:lightgrey;
+   background: lightgrey; 
+   border: 0; 
+   height: 1px;
+}
 
 
 /* test footer */
-/* footer fine pagina */
+/*-------------------------- footer fine pagina */
 .footer{
     background-color: black;
     margin-top: 130px;
