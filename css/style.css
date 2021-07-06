@@ -308,32 +308,34 @@ p {
 
 .piuuno {
     margin-top: 150px;
+    margin-bottom: 80px;
 }
 
 .link {
-    font-size: 180%
+    font-size: 0%;
 }
 
 /* ----------------------------sezione 6 */
-
-
 .cubi {
-    background-color: lightgray;
+    background-color:#f5f5f5;
+    position: relative;
 }
 
-/* .imgcubocx {
-    background-color: rgb(241, 12, 138);
-    float: left;
-    
-} */
+.imgcubocx {
+    background-color: #f5f5f5;
+    padding-top: 90px;
+    margin-left: 5%;
+}
+
 
 /* -------------------------cubo destra */
 .imgcubodx {
     width: 550px;
     height: 550px;
-    background-color: rgb(0, 0, 0);
-    float: right;
+    float: left;
     position: relative;
+    position: absolute;
+    right: 0px;
 }
 
 .cubowordBicy {
@@ -382,6 +384,10 @@ p {
     padding-left: 50px;
 }
 
+.imgDesignitcx {
+    width: 30%;
+}
+
 .imgHearst {
     width: 80%;
     padding-top: 140px;
@@ -391,7 +397,6 @@ p {
 .imgcubosx {
     width: 550px;
     height: 550px;
-    background-color: rgb(0, 0, 0);
     float: left;
     position: relative;
 }
